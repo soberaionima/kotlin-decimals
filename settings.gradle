@@ -1,0 +1,4 @@
+rootProject.name = 'rxmodel'
+include 'common'
+include 'common-jvm'
+include 'common-js'
